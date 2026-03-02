@@ -1,0 +1,21 @@
+<!DOCTYPES html>
+<html lang="en">
+  <head>
+    <title>Miso Tofu Soup</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <h1>Miso Tofu Soup</h1>
+      <p>A homemade recipe I learnt from my girlfriend</p>
+    <h2>Ingredients</h2>
+      <ul>
+        <li>Miso</li>
+        <li>Tofu</li>
+        <li>Vegetable (optional)</li>
+        <li>Seaweed</li>
+    <h2>Prep</h2>
+      <p>Slice thin the tofu into small dice</p>
+
+      </ul>
+  </body>
+</html>
