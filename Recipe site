@@ -15,7 +15,14 @@
         <li>Seaweed</li>
     <h2>Prep</h2>
       <p>Slice thin the tofu into small dice</p>
-
+      <p>Thred seaweed</p>
+    <h2>Cooking</h2>
+      <ol>
+        <li>Boil water</li>
+        <li>Put miso to taste</li>
+        <li>Add diced Tofu</li>
+        <li>Wait til boil again then turn off the head and add threded seaweed</li>
+      </ol>
       </ul>
   </body>
 </html>
